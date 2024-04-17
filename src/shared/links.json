@@ -1,0 +1,16 @@
+{
+    "menus": [
+        {
+            "page": "bmi-cal",
+            "title": "bmi계산기"
+        },
+        {
+            "page": "percent-cal",
+            "title": "퍼센트계산기"
+        },
+        {
+            "page": "loan-cal",
+            "title": "대출계산기"
+        }
+    ]
+}
