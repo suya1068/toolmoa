@@ -1,5 +1,14 @@
+/* common css */
+body { 
+    margin : 0 !important;
+    min-height: 100vh;
+}
+
 .tool-moa-layout {
-    
+    display: flex;
+    flex-direction: column;
+
+    min-height: inherit;
 }
 
 /* 툴모아 헤더 */
@@ -39,6 +48,11 @@
             margin-left: 10px;
         }
     }
+}
+
+/* 툴모아 메인 css */
+.tool-moa__main {
+    flex-grow: 1;
 }
 
 /* 툴모아 푸터 */

@@ -8,7 +8,7 @@ export default function LayOut() {
   return (
     <div className="tool-moa-layout">
       <Header />
-      <main>
+      <main className="tool-moa__main">
         <SideBar />
         <Outlet />
       </main>
