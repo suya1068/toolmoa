@@ -10,6 +10,7 @@ export default function LayOut() {
       <Header />
       <main className="tool-moa__main">
         <SideBar />
+        <component />
         <Outlet />
       </main>
       <Footer />

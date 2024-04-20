@@ -11,7 +11,7 @@ export default function Header() {
         </Link>
       </div>
       <div className="tool-moa__header__menu">
-        <ul className="menu_box">{generateMenu()}</ul>
+        <ul className="menu_box">{generateMenu("header")}</ul>
       </div>
     </header>
   );
