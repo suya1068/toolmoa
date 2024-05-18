@@ -11,6 +11,10 @@
         {
             "page": "loan-cal",
             "title": "대출계산기"
+        },
+        {
+            "page": "lotto",
+            "title": "로또 실수령 계산기"
         }
     ]
 }
